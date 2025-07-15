@@ -1,0 +1,6 @@
+@RapPhim1_HostAddress = http://localhost:5110
+
+GET {{RapPhim1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
