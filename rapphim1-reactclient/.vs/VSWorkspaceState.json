@@ -4,10 +4,9 @@
     "\\src",
     "\\src\\api",
     "\\src\\components",
-    "\\src\\components\\admin",
     "\\src\\pages",
     "\\src\\pages\\admin"
   ],
-  "SelectedNode": "\\src\\pages\\admin\\ServiceManager.jsx",
+  "SelectedNode": "\\src\\pages\\admin\\ActorDirectorPage.jsx",
   "PreviewInSolutionExplorer": false
 }

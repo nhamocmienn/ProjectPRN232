@@ -8,6 +8,7 @@ import RoomManager from './pages/admin/RoomManager';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import ServiceManager from './pages/admin/ServiceManager';
+import ActorDirectorPage from './pages/Admin/ActorDirectorPage';
 
 
 
@@ -20,7 +21,11 @@ function App() {
                     <Route index element={<Home />} />
                     <Route path="admin/movies" element={<MovieManager />} />
                     <Route path="admin/rooms" element={<RoomManager />} />
-                    <Route path="admin/services" element={<ServiceManager />} />
+                <Route path="admin/services" element={<ServiceManager />} />
+                <Route path="/admin/actors-directors" element={<ActorDirectorPage />} />
+    
+               
+
                 
             </Routes>
             <ToastContainer />

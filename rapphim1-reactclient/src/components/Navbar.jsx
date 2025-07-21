@@ -1,5 +1,4 @@
-﻿// src/components/Navbar.jsx
-import { useNavigate } from 'react-router-dom';
+﻿import { useNavigate } from 'react-router-dom';
 import React, { useState } from 'react';
 import {
     AppBar,
@@ -12,15 +11,20 @@ import {
     Avatar,
     Box,
 } from '@mui/material';
-
-
+import MenuIcon from '@mui/icons-material/Menu';
 
 const Navbar = ({ onLoginClick, isAdmin, onLogout, profile }) => {
     const [anchorEl, setAnchorEl] = useState(null);
+    const [adminMenuAnchor, setAdminMenuAnchor] = useState(null);
 
     const handleMenuOpen = (event) => setAnchorEl(event.currentTarget);
     const handleMenuClose = () => setAnchorEl(null);
+
+    const handleAdminMenuOpen = (event) => setAdminMenuAnchor(event.currentTarget);
+    const handleAdminMenuClose = () => setAdminMenuAnchor(null);
+
     const navigate = useNavigate();
+
     const handleLogoutClick = () => {
         handleMenuClose();
         onLogout();
@@ -29,35 +33,53 @@ const Navbar = ({ onLoginClick, isAdmin, onLogout, profile }) => {
     return (
         <AppBar position="static">
             <Toolbar sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                {/* Left: Logo */}
+                {/* Logo */}
                 <Box sx={{ flex: 1 }}>
-                    <Typography variant="h6">Rạp Phim</Typography>
+                    <Typography variant="h6" sx={{ cursor: 'pointer' }} onClick={() => navigate('/')}>
+                        Rạp Phim
+                    </Typography>
                 </Box>
 
-                {/* Center: Menu buttons */}
+                {/* Center: Menu */}
                 <Box sx={{ flex: 2, display: 'flex', justifyContent: 'center', gap: 2 }}>
                     <Button color="inherit">Phim Hôm Nay</Button>
                     <Button color="inherit">Phim Sắp Chiếu</Button>
+
                     {isAdmin && (
                         <>
-                            <Button color="inherit" onClick={() => navigate('/admin/movies')}>
-                                Quản lý Phim
+                            <Button
+                                color="inherit"
+                                startIcon={<MenuIcon />}
+                                onClick={handleAdminMenuOpen}
+                            >
+                                Quản lý
                             </Button>
-
-                            <Button color="inherit" onClick={() => navigate('/admin/rooms')}>
-                                Quản lý Phòng
-                            </Button> 
-                            <Button color="inherit">Quản lý Suất Chiếu</Button>
-
-                            <Button color="inherit" onClick={() => navigate('/admin/services')}>
-                                Quản lý Dịch Vụ
-                            </Button>
-                          
+                            <Menu
+                                anchorEl={adminMenuAnchor}
+                                open={Boolean(adminMenuAnchor)}
+                                onClose={handleAdminMenuClose}
+                            >
+                                <MenuItem onClick={() => { navigate('/admin/movies'); handleAdminMenuClose(); }}>
+                                    Quản lý Phim
+                                </MenuItem>
+                                <MenuItem onClick={() => { navigate('/admin/rooms'); handleAdminMenuClose(); }}>
+                                    Quản lý Phòng
+                                </MenuItem>
+                                <MenuItem onClick={() => { navigate('/admin/showtimes'); handleAdminMenuClose(); }}>
+                                    Quản lý Suất Chiếu
+                                </MenuItem>
+                                <MenuItem onClick={() => { navigate('/admin/services'); handleAdminMenuClose(); }}>
+                                    Quản lý Dịch Vụ
+                                </MenuItem>
+                                <MenuItem onClick={() => { navigate('/admin/actors-directors'); handleAdminMenuClose(); }}>
+                                    Quản lý Diễn viên & Đạo diễn
+                                </MenuItem>
+                            </Menu>
                         </>
                     )}
                 </Box>
 
-                {/* Right: Avatar / Đăng nhập */}
+                {/* Right: Avatar or Login */}
                 <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: 1 }}>
                     {!profile ? (
                         <Button color="inherit" onClick={onLoginClick}>
