@@ -20,7 +20,11 @@ namespace RapPhim1.DAO
          .FirstOrDefaultAsync(m => m.Id == id);
 
 
-        public async Task AddAsync(Movie movie) => await _context.Movies.AddAsync(movie);
+        public async Task AddAsync(Movie movie)
+        {
+            movie.IsActive = true; // đảm bảo IsActive luôn true khi thêm mới
+            await _context.Movies.AddAsync(movie);
+        }
         public async Task<List<Movie>> GetAllAsync() => await _context.Movies.ToListAsync();
         public async Task SaveChangesAsync() => await _context.SaveChangesAsync();
 

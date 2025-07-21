@@ -16,9 +16,13 @@ namespace RapPhim1.Controllers.Admin
         public AdminSeatController(ISeatService seatService) => _seatService = seatService;
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] int? roomId)
         {
-            var seats = await _seatService.GetAllAsync(); 
+            var seats = await _seatService.GetAllAsync();
+            if (roomId.HasValue)
+            {
+                seats = seats.Where(s => s.RoomId == roomId.Value).ToList();
+            }
             return Ok(seats);
         }
 
@@ -32,16 +36,23 @@ namespace RapPhim1.Controllers.Admin
         [HttpPost]
         public async Task<IActionResult> Create(SeatCreateDTO dto)
         {
+            bool exists = await _seatService.SeatExistsAsync(dto.RoomId, dto.Row, dto.Column);
+            if (exists)
+                return BadRequest("Seat already exists at the given position.");
+
             var seat = new Seat
             {
                 RoomId = dto.RoomId,
                 Row = dto.Row,
                 Column = dto.Column,
-                SeatTypeId = dto.SeatTypeId
+                SeatTypeId = dto.SeatTypeId,
+                IsActive = true
             };
+
             await _seatService.AddAsync(seat);
             return Ok("Seat created successfully");
         }
+
 
 
         [HttpPut("{id}")]
@@ -52,12 +63,17 @@ namespace RapPhim1.Controllers.Admin
             var existing = await _seatService.GetByIdAsync(id);
             if (existing == null) return NotFound("Seat not found");
 
-            // Cập nhật thủ công từ DTO
+            // Kiểm tra trùng vị trí
+            bool exists = await _seatService.SeatExistsAsync(dto.RoomId, dto.Row, dto.Column, id);
+            if (exists)
+                return BadRequest("Another seat already exists at the given position.");
+
+            // Cập nhật
             existing.RoomId = dto.RoomId;
             existing.Row = dto.Row;
             existing.Column = dto.Column;
             existing.SeatTypeId = dto.SeatTypeId;
-            existing.IsActive = dto.IsActive;
+            existing.IsActive = true; // luôn bật lại ghế khi cập nhật
 
             await _seatService.UpdateAsync(existing);
             return Ok("Seat updated successfully");

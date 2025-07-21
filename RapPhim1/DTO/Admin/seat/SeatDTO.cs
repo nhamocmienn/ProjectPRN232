@@ -9,5 +9,6 @@
         public int SeatTypeId { get; set; }
         public string SeatTypeName { get; set; } = null!;
         public decimal ExtraFee { get; set; }
+        public bool isActive { get; set; }
     }
 }

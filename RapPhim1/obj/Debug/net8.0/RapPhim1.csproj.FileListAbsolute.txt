@@ -166,3 +166,4 @@ C:\ProjectAPI\RapPhim1\RapPhim1\obj\Debug\net8.0\RapPhim1.pdb
 C:\ProjectAPI\RapPhim1\RapPhim1\obj\Debug\net8.0\RapPhim1.genruntimeconfig.cache
 C:\ProjectAPI\RapPhim1\RapPhim1\obj\Debug\net8.0\ref\RapPhim1.dll
 C:\ProjectAPI\RapPhim1\RapPhim1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\ProjectAPI\RapPhim1\RapPhim1\obj\Debug\net8.0\RapPhim1.sourcelink.json

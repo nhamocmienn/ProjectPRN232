@@ -3,6 +3,158 @@
   "WorkspaceRootPath": "C:\\ProjectAPI\\RapPhim1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\seatdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\seatdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminseatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminseatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\seattypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\seattypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\seattypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\seattypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminseattypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminseattypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iseattypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\iseattypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\room\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\room\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\common\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\common\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\director\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\director\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\director\\directorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\director\\directorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\actor\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\actor\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\actor\\actorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\actor\\actorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\actordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\actordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\admindirectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\admindirectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\common\\manageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\common\\manageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,32 +183,8 @@
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminmoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\movie\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\movie\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,28 +203,12 @@
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\ticket\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\orderticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\orderticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\seattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\seat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,44 +275,8 @@
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\rapphim1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\admindirectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\admindirectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\director\\directorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\director\\directorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\directordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\actordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\actordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\director\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\director\\directordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\actor\\actorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\actor\\actorcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\actor\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\actor\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -209,10 +285,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\genredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\showtimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,50 +305,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\showtimes\\showtimecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\showtimes\\showtimecreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\controllers\\admin\\adminseatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\controllers\\admin\\adminseatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\iseatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\seatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dto\\admin\\seat\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dto\\admin\\seat\\seatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\service\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\dao\\seatdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|solutionrelative:rapphim1\\dao\\seatdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7A0238D-331E-446E-8816-76676AF66942}|RapPhim1\\RapPhim1.csproj|c:\\projectapi\\rapphim1\\rapphim1\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -350,280 +378,169 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:55:17.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserRegisterDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Title": "SeatDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\SeatDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\SeatDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:55:02.17Z",
+              "WhenOpened": "2025-07-14T06:44:18.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\UserDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\UserDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\UserDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\UserDAO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Title": "SeatCreateDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:42:51.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Auth\\AuthController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Auth\\AuthController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Auth\\AuthController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Auth\\AuthController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:54:27.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ManageProfile.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\ManageProfile.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Common\\ManageProfile.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\ManageProfile.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Common\\ManageProfile.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:13:12.27Z",
+              "WhenOpened": "2025-07-14T07:16:39.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\UserService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\UserService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\UserService.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGAAAAAAAAAAAAAAAA==",
+              "Title": "SeatDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:44:21.699Z",
+              "WhenOpened": "2025-07-14T07:21:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeatUpdateDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:24:36.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeatService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\SeatService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\SeatService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:50:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminSeatController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:55:12.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\User.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\User.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "ISeatService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\ISeatService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\ISeatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:26:53.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:48:23.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "SeatTypeDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatTypeDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\SeatTypeDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatTypeDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\SeatTypeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:24:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeatTypeService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatTypeService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\SeatTypeService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatTypeService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\SeatTypeService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:27:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Program.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Program.cs",
               "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Program.cs",
               "RelativeToolTip": "RapPhim1\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAqwFQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:31:18.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminMovieController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:24:14.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\MovieService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\MovieService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\MovieService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\MovieService.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:22:40.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T01:31:18.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MovieDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\MovieDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\MovieDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\MovieDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\MovieDAO.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Title": "AdminSeatTypeController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatTypeController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminSeatTypeController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatTypeController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminSeatTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:18:04.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T10:19:44.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MovieUpdateDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBIAAAAAAAAAAAAAAA==",
+              "Title": "ISeatTypeService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatTypeService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\ISeatTypeService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatTypeService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\ISeatTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T07:37:30.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovieDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:52:49.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T10:26:43.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "MovieCreateDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Title": "Seat.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Seat.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Seat.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Seat.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Seat.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:25:44.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:42:53.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Movie.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Movie.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Movie.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T02:59:43.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Showtime.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Showtime.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Showtime.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Showtime.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Showtime.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T10:13:18.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\OrderService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\OrderService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\OrderService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\OrderService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T06:07:16.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwBwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T06:14:02.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\OrderDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\OrderDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\OrderDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\OrderDAO.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAADwv2UAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T06:04:57.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderTicket.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderTicket.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\OrderTicket.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderTicket.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\OrderTicket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T03:51:06.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ServiceItem.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\ServiceItem.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\ServiceItem.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\ServiceItem.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\ServiceItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T13:02:43.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
               "Title": "SeatType.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\SeatType.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\SeatType.cs",
@@ -631,25 +548,47 @@
               "RelativeToolTip": "RapPhim1\\Models\\SeatType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:42:34.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:42:34.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Seat.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Seat.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Seat.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Seat.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Seat.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "AdminRoomController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:42:53.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:51:22.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 15,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\RoomDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\RoomDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\RoomDAO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:43:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\RoomService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\RoomService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\RoomService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\RoomService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:49:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Room.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\Room.cs",
@@ -657,345 +596,107 @@
               "RelativeToolTip": "RapPhim1\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:42:03.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:42:03.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\OrderService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderService.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\OrderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\room\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\room\\RoomDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\room\\RoomDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\room\\RoomDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T03:51:28.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T09:18:50.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Order.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Order.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\IRoomService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\IRoomService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\IRoomService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\IRoomService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T03:50:47.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T06:47:49.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TicketDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\OrderDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\OrderDAO.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2UAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:31:02.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T06:04:57.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CreateOrderDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\MovieDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\MovieDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\MovieDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:30:40.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ServiceDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:31:16.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T03:18:04.419Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "RevenueReportDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:31:38.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250715041334_Addorder3.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
-              "RelativeToolTip": "RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:13:36.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20250714163348_AddServiceEntity1.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
-              "RelativeToolTip": "RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T04:12:18.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RapPhim1\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:29:36.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AdminServiceItemController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:25:07.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ServiceItemCreateUpdateDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:22:42.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ServiceItemService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ServiceItemService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\ServiceItemService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ServiceItemService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\ServiceItemService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswEkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:23:17.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ServiceItemDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:22:19.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ServiceItemDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ServiceItemDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\ServiceItemDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ServiceItemDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\ServiceItemDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:19:03.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AdminDirectorController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T12:46:41.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "AdminActorController.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminActorController.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminActorController.cs",
               "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminActorController.cs",
               "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminActorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T11:22:38.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\JwtService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\JwtService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\JwtService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\JwtService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\GenreService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\GenreService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\GenreService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\GenreService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T01:45:41.271Z"
+              "WhenOpened": "2025-07-15T14:19:09.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "RapPhim1.http",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\RapPhim1.http",
-              "RelativeDocumentMoniker": "RapPhim1\\RapPhim1.http",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\RapPhim1.http",
-              "RelativeToolTip": "RapPhim1\\RapPhim1.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-14T12:50:04.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "DirectorDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\DirectorDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\DirectorDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\DirectorDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\DirectorDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\GenreController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Common\\GenreController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\GenreController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Common\\GenreController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:21:41.002Z"
+              "WhenOpened": "2025-07-15T14:20:39.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DirectorCreateUpdateDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "MovieUpdateDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieUpdateDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:18:29.079Z"
+              "WhenOpened": "2025-07-14T07:37:30.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ActorDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ActorDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\ActorDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ActorDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\ActorDAO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:20:19.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ActorService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ActorService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\ActorService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ActorService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\ActorService.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:22:02.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "DirectorDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:17:58.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ActorCreateUpdateDto.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:17:02.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ActorDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T11:16:41.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Actor.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Actor.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Actor.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Actor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:03:21.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Director.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Director.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Models\\Director.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Director.cs",
-              "RelativeToolTip": "RapPhim1\\Models\\Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T03:03:42.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 25,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\Genre.cs",
@@ -1007,19 +708,535 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 23,
               "Title": "GenreDAO.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\GenreDAO.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DAO\\GenreDAO.cs",
               "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\GenreDAO.cs",
               "RelativeToolTip": "RapPhim1\\DAO\\GenreDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T03:30:11.941Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:52:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieCreateDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\movie\\MovieCreateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:25:44.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DirectorDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\Director\\DirectorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:17:58.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DirectorCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\Director\\DirectorCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:18:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ActorDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\actor\\ActorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:16:41.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ActorCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\actor\\ActorCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:17:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DirectorDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\DirectorDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\DirectorDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\DirectorDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\DirectorDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:21:41.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActorDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ActorDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\ActorDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ActorDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\ActorDAO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA0wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:20:19.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminDirectorController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminDirectorController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:46:41.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminMovieController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminMovieController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:24:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ManageProfile.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\ManageProfile.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Common\\ManageProfile.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Common\\ManageProfile.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Common\\ManageProfile.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:13:12.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:54:27.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\UserDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\UserDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\UserDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\UserDAO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:42:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Auth\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:55:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Auth\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:55:17.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\UserService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\UserService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\UserService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:44:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\User.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\User.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:26:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\MovieService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\MovieService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\MovieService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:22:40.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Movie.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Movie.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Movie.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:59:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Showtime.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Showtime.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Showtime.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Showtime.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Showtime.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:13:18.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\OrderService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\OrderService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\OrderService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:07:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Ticket\\OrdersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:14:02.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderTicket.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderTicket.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\OrderTicket.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderTicket.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\OrderTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:51:06.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ServiceItem.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\ServiceItem.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\ServiceItem.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\ServiceItem.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\ServiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:02:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\OrderService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\OrderService.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:51:28.848Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 53,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Order.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Order.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:50:47.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\TicketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:31:02.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:30:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ServiceDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\ServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:31:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RevenueReportDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Ticket\\RevenueReportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:31:38.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250715041334_Addorder3.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
+              "RelativeToolTip": "RapPhim1\\Migrations\\20250715041334_Addorder3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:13:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250714163348_AddServiceEntity1.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
+              "RelativeToolTip": "RapPhim1\\Migrations\\20250714163348_AddServiceEntity1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:12:18.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RapPhim1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:29:36.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminServiceItemController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
+              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminServiceItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:25:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ServiceItemCreateUpdateDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemCreateUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:22:42.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ServiceItemService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ServiceItemService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\ServiceItemService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ServiceItemService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\ServiceItemService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:23:17.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ServiceItemDTO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
+              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\serviceItem\\ServiceItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:22:19.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ServiceItemDAO.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ServiceItemDAO.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\DAO\\ServiceItemDAO.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ServiceItemDAO.cs",
+              "RelativeToolTip": "RapPhim1\\DAO\\ServiceItemDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:19:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\JwtService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\JwtService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\JwtService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T01:45:41.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RapPhim1.http",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\RapPhim1.http",
+              "RelativeDocumentMoniker": "RapPhim1\\RapPhim1.http",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\RapPhim1.http",
+              "RelativeToolTip": "RapPhim1\\RapPhim1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-14T12:50:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ActorService.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Service\\ActorService.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ActorService.cs",
+              "RelativeToolTip": "RapPhim1\\Service\\ActorService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:22:02.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Actor.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Actor.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:03:21.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "RapPhim1\\Models\\Director.cs",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\Director.cs",
+              "RelativeToolTip": "RapPhim1\\Models\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:03:42.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
               "Title": "ShowtimeService.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ShowtimeService.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Service\\ShowtimeService.cs",
@@ -1031,7 +1248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 72,
               "Title": "ShowtimeDto.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\showtimes\\ShowtimeDto.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\showtimes\\ShowtimeDto.cs",
@@ -1043,7 +1260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 73,
               "Title": "ShowtimeDAO.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\ShowtimeDAO.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DAO\\ShowtimeDAO.cs",
@@ -1055,7 +1272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 74,
               "Title": "AdminShowtimeController.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminShowtimeController.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminShowtimeController.cs",
@@ -1067,7 +1284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 75,
               "Title": "ShowtimeCreateUpdateDto.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\showtimes\\ShowtimeCreateUpdateDto.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\showtimes\\ShowtimeCreateUpdateDto.cs",
@@ -1079,139 +1296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "RoomDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\RoomDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\RoomDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\RoomDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\RoomDAO.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:43:42.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "AdminRoomController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminRoomController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:51:22.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "AdminSeatController.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
-              "RelativeToolTip": "RapPhim1\\Controllers\\Admin\\AdminSeatController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:55:12.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "SeatCreateDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T07:16:39.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "ISeatService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\ISeatService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\ISeatService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\ISeatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:48:23.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "SeatService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\SeatService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\SeatService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\SeatService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:50:38.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "SeatDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T07:21:14.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "SeatUpdateDTO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
-              "RelativeToolTip": "RapPhim1\\DTO\\Admin\\seat\\SeatUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T07:24:36.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\RoomService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\RoomService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\RoomService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\RoomService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:49:10.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "IRoomService.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\IRoomService.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\Service\\IRoomService.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\IRoomService.cs",
-              "RelativeToolTip": "RapPhim1\\Service\\IRoomService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:47:49.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "SeatDAO.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatDAO.cs",
-              "RelativeDocumentMoniker": "RapPhim1\\DAO\\SeatDAO.cs",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DAO\\SeatDAO.cs",
-              "RelativeToolTip": "RapPhim1\\DAO\\SeatDAO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T06:44:18.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 76,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Service\\IUserService.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Service\\IUserService.cs",
@@ -1223,7 +1308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 77,
               "Title": "20250714031347_AddMovieEntities1.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714031347_AddMovieEntities1.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714031347_AddMovieEntities1.cs",
@@ -1235,7 +1320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 79,
               "Title": "20250714013818_Init.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714013818_Init.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714013818_Init.cs",
@@ -1247,7 +1332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 80,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -1259,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 78,
               "Title": "20250714030622_AddMovieEntities.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714030622_AddMovieEntities.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714030622_AddMovieEntities.cs",
@@ -1271,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 81,
               "Title": "20250714030957_UpdateMovieSchema.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Migrations\\20250714030957_UpdateMovieSchema.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Migrations\\20250714030957_UpdateMovieSchema.cs",
@@ -1283,7 +1368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 83,
               "Title": "MovieDirector.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\MovieDirector.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\MovieDirector.cs",
@@ -1295,7 +1380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 84,
               "Title": "MovieActor.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\MovieActor.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\MovieActor.cs",
@@ -1307,7 +1392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 85,
               "Title": "MovieGenre.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\Models\\MovieGenre.cs",
               "RelativeDocumentMoniker": "RapPhim1\\Models\\MovieGenre.cs",
@@ -1319,7 +1404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 82,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\appsettings.json",
               "RelativeDocumentMoniker": "RapPhim1\\appsettings.json",
@@ -1331,7 +1416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 86,
               "Title": "ChangePasswordDto.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Common\\ChangePasswordDto.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DTO\\Common\\ChangePasswordDto.cs",
@@ -1343,7 +1428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 87,
               "Title": "UserUpdateProfileDto.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\DTO\\Common\\UserUpdateProfileDto.cs",
               "RelativeDocumentMoniker": "RapPhim1\\DTO\\Common\\UserUpdateProfileDto.cs",
@@ -1355,7 +1440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 88,
               "Title": "RapPhim1.csproj",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\RapPhim1\\RapPhim1.csproj",
               "RelativeDocumentMoniker": "RapPhim1\\RapPhim1.csproj",

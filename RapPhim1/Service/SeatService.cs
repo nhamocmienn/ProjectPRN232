@@ -20,7 +20,8 @@ namespace RapPhim1.Service
                 Column = s.Column,
                 SeatTypeId = s.SeatTypeId,
                 SeatTypeName = s.SeatType.Name,
-                ExtraFee = s.SeatType.ExtraFee
+                ExtraFee = s.SeatType.ExtraFee,
+                isActive = s.IsActive
             }).ToList();
         }
         public async Task<Seat?> GetByIdAsync(int id) => await _seatDAO.GetByIdAsync(id);
@@ -43,5 +44,11 @@ namespace RapPhim1.Service
                 await _seatDAO.SaveChangesAsync();
             }
         }
+
+        public async Task<bool> SeatExistsAsync(int roomId, string row, int column, int? excludeId = null)
+        {
+            return await _seatDAO.ExistsAsync(roomId, row, column, excludeId);
+        }
+
     }
 }

@@ -44,6 +44,8 @@ builder.Services.AddScoped<RoomDAO>();
 builder.Services.AddScoped<SeatDAO>();
 builder.Services.AddScoped<IRoomService, RoomService>();
 builder.Services.AddScoped<ISeatService,SeatService>();
+builder.Services.AddScoped<SeatTypeDAO>();
+builder.Services.AddScoped<ISeatTypeService, SeatTypeService>();
 
 builder.Services.AddScoped<ShowtimeDAO>();
 builder.Services.AddScoped<IShowtimeService, ShowtimeService>();
@@ -53,6 +55,9 @@ builder.Services.AddScoped<IServiceItemService, ServiceItemService>();
 
 builder.Services.AddScoped<OrderDAO>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+
+builder.Services.AddScoped<GenreDAO>();
+builder.Services.AddScoped<IGenreService, GenreService>();
 
 
 

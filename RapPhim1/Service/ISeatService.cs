@@ -10,5 +10,7 @@ namespace RapPhim1.Service
         Task AddAsync(Seat seat);
         Task UpdateAsync(Seat seat);
         Task DeleteAsync(int id);
+
+        Task<bool> SeatExistsAsync(int roomId, string row, int column, int? excludeId = null);
     }
 }

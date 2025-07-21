@@ -1,4 +1,5 @@
 ﻿// src/components/Navbar.jsx
+import { useNavigate } from 'react-router-dom';
 import React, { useState } from 'react';
 import {
     AppBar,
@@ -12,12 +13,14 @@ import {
     Box,
 } from '@mui/material';
 
+
+
 const Navbar = ({ onLoginClick, isAdmin, onLogout, profile }) => {
     const [anchorEl, setAnchorEl] = useState(null);
 
     const handleMenuOpen = (event) => setAnchorEl(event.currentTarget);
     const handleMenuClose = () => setAnchorEl(null);
-
+    const navigate = useNavigate();
     const handleLogoutClick = () => {
         handleMenuClose();
         onLogout();
@@ -37,8 +40,16 @@ const Navbar = ({ onLoginClick, isAdmin, onLogout, profile }) => {
                     <Button color="inherit">Phim Sắp Chiếu</Button>
                     {isAdmin && (
                         <>
-                            <Button color="inherit">Quản lý Phim</Button>
+                            <Button color="inherit" onClick={() => navigate('/admin/movies')}>
+                                Quản lý Phim
+                            </Button>
+
+                            <Button color="inherit" onClick={() => navigate('/admin/rooms')}>
+                                Quản lý Phòng
+                            </Button> 
                             <Button color="inherit">Quản lý Suất Chiếu</Button>
+
+                          
                         </>
                     )}
                 </Box>

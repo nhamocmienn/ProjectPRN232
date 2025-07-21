@@ -316,13 +316,29 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "RapPhim1.Controllers.Admin.AdminSeatTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/admin/seat-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RapPhim1.Controllers.Admin.AdminSeatController",
     "Method": "GetAll",
     "RelativePath": "api/admin/seats",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "roomId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -567,6 +583,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RapPhim1.Controllers.Common.GenresController",
+    "Method": "GetAll",
+    "RelativePath": "api/Genres",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RapPhim1.Models.Genre, RapPhim1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ManageProfile",

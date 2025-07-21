@@ -18,6 +18,18 @@ const Home = () => {
     };
 
     useEffect(() => {
+        const fetchProfile = async () => {
+            const token = localStorage.getItem('token');
+            if (!token) return;  //  Không gọi nếu chưa login
+
+            try {
+                const res = await getProfile();
+                setProfile(res);
+            } catch {
+                setProfile(null);
+            }
+        };
+
         fetchProfile();
     }, []);
 

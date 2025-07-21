@@ -4,8 +4,10 @@
     "\\src",
     "\\src\\api",
     "\\src\\components",
-    "\\src\\pages"
+    "\\src\\components\\admin",
+    "\\src\\pages",
+    "\\src\\pages\\admin"
   ],
-  "SelectedNode": "\\src\\components\\Navbar.jsx",
+  "SelectedNode": "\\src\\pages\\admin",
   "PreviewInSolutionExplorer": false
 }

@@ -11,6 +11,13 @@ namespace RapPhim1.DAO
 
         public async Task<List<Genre>> GetByIdsAsync(List<int> ids) =>
             await _context.Genres.Where(g => ids.Contains(g.Id)).ToListAsync();
+
+        public async Task<List<Genre>> GetAllAsync() =>
+            await _context.Genres.ToListAsync();
+
+
     }
+
+
 
 }

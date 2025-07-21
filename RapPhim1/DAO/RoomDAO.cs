@@ -10,8 +10,8 @@ namespace RapPhim1.DAO
         private readonly AppDbContext _context;
         public RoomDAO(AppDbContext context) => _context = context;
 
-        public async Task<List<Room>> GetAllAsync() => await _context.Rooms.Include(r => r.Seats).ToListAsync();
-        public async Task<Room?> GetByIdAsync(int id) => await _context.Rooms.Include(r => r.Seats).FirstOrDefaultAsync(r => r.Id == id);
+        public async Task<List<Room>> GetAllAsync() => await _context.Rooms.Include(r => r.Seats).ThenInclude(s => s.SeatType).ToListAsync();
+        public async Task<Room?> GetByIdAsync(int id) => await _context.Rooms.Include(r => r.Seats).ThenInclude(s => s.SeatType).FirstOrDefaultAsync(r => r.Id == id);
         public async Task AddAsync(Room room) => await _context.Rooms.AddAsync(room);
         public void Update(Room room) => _context.Rooms.Update(room);
         public void Delete(Room room) => room.IsActive = false;

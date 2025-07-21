@@ -8,10 +8,13 @@ SELECT*FROM Rooms
 SELECT*FROM Seats
 SELECT*FROM SeatTypes
 SELECT*FROM showtimes
+SELECT*FROM Users
 
-INSERT INTO SeatTypes ([Name], ExtraFee, IsActive)
-VALUES 
-  ('Ghế Thường', 15000, 1),
-  ('Ghế VIP', 20000, 1),
-  ('Ghế Đôi', 30000, 1)
+SELECT*FROM Orders
+SELECT*FROM OrderServices
+SELECT*FROM OrderTickets
+
+
+
+
   
