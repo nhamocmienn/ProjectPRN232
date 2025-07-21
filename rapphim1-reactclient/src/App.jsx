@@ -7,16 +7,21 @@ import RoomManager from './pages/admin/RoomManager';
 
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import ServiceManager from './pages/admin/ServiceManager';
+
+
 
 
 function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/admin/movies" element={<MovieManager />} />
-                <Route path="/admin/rooms" element={<RoomManager />} />
-                {/* <Route path="/admin" element={<AdminPanel />} /> */}
+              
+                    <Route index element={<Home />} />
+                    <Route path="admin/movies" element={<MovieManager />} />
+                    <Route path="admin/rooms" element={<RoomManager />} />
+                    <Route path="admin/services" element={<ServiceManager />} />
+                
             </Routes>
             <ToastContainer />
         </Router>

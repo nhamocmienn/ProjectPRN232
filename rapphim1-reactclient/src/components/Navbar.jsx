@@ -49,6 +49,9 @@ const Navbar = ({ onLoginClick, isAdmin, onLogout, profile }) => {
                             </Button> 
                             <Button color="inherit">Quản lý Suất Chiếu</Button>
 
+                            <Button color="inherit" onClick={() => navigate('/admin/services')}>
+                                Quản lý Dịch Vụ
+                            </Button>
                           
                         </>
                     )}

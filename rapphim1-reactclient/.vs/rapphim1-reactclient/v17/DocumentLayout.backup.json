@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\ServiceManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\ServiceManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\MovieManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\RoomManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\RoomManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\services.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\axiosClient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\axiosClient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\SeatMapDialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -19,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\admin\\RoomCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\RoomManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\RoomManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\admin\\RoomForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -31,28 +59,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\rooms.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\axiosClient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\axiosClient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\AuthDialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\AuthDialog.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\admin\\MovieManager.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\movies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -69,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\actors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\actors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\MovieCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -106,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,44 +126,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeatMapDialog.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\SeatMapDialog.jsx",
-              "RelativeDocumentMoniker": "src\\components\\admin\\SeatMapDialog.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\SeatMapDialog.jsx",
-              "RelativeToolTip": "src\\components\\admin\\SeatMapDialog.jsx",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAiwJ0AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-21T01:36:14.72Z",
+              "WhenOpened": "2025-07-15T08:04:50.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RoomForm.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomForm.jsx",
-              "RelativeDocumentMoniker": "src\\components\\admin\\RoomForm.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomForm.jsx",
-              "RelativeToolTip": "src\\components\\admin\\RoomForm.jsx",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAiwHoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MovieManager.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\MovieManager.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx",
+              "RelativeToolTip": "src\\pages\\admin\\MovieManager.jsx",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAiwLQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-16T08:55:46.25Z"
+              "WhenOpened": "2025-07-15T11:22:38.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ServiceManager.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\ServiceManager.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\admin\\ServiceManager.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\ServiceManager.jsx",
+              "RelativeToolTip": "src\\pages\\admin\\ServiceManager.jsx",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwIIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-21T07:28:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RoomManager.jsx",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\RoomManager.jsx",
               "RelativeDocumentMoniker": "src\\pages\\admin\\RoomManager.jsx",
               "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\RoomManager.jsx",
               "RelativeToolTip": "src\\pages\\admin\\RoomManager.jsx",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAiwMIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-16T08:56:37.496Z"
+              "WhenOpened": "2025-07-16T08:56:37.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Home.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "src\\pages\\Home.jsx",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-15T10:01:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-15T08:45:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "services.js",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\services.js",
+              "RelativeDocumentMoniker": "src\\api\\services.js",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\services.js",
+              "RelativeToolTip": "src\\api\\services.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-21T07:29:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "seats.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\seats.js",
               "RelativeDocumentMoniker": "src\\api\\seats.js",
@@ -168,44 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\App.jsx",
-              "RelativeDocumentMoniker": "src\\App.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\App.jsx",
-              "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T08:04:50.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomCard.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomCard.jsx",
-              "RelativeDocumentMoniker": "src\\components\\admin\\RoomCard.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomCard.jsx",
-              "RelativeToolTip": "src\\components\\admin\\RoomCard.jsx",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-16T08:54:48.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "rooms.js",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\rooms.js",
-              "RelativeDocumentMoniker": "src\\api\\rooms.js",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\rooms.js",
-              "RelativeToolTip": "src\\api\\rooms.js",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-16T08:41:27.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "axiosClient.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\axiosClient.js",
               "RelativeDocumentMoniker": "src\\api\\axiosClient.js",
@@ -213,95 +238,12 @@
               "RelativeToolTip": "src\\api\\axiosClient.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T09:02:10.939Z"
+              "WhenOpened": "2025-07-15T09:02:10.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthDialog.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\AuthDialog.jsx",
-              "RelativeDocumentMoniker": "src\\components\\AuthDialog.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\AuthDialog.jsx",
-              "RelativeToolTip": "src\\components\\AuthDialog.jsx",
-              "ViewState": "AgIAADwAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T10:01:34.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "auth.js",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\auth.js",
-              "RelativeDocumentMoniker": "src\\api\\auth.js",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\auth.js",
-              "RelativeToolTip": "src\\api\\auth.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T09:02:44.468Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Navbar.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx",
-              "RelativeDocumentMoniker": "src\\components\\Navbar.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\Navbar.jsx",
-              "RelativeToolTip": "src\\components\\Navbar.jsx",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T08:45:48.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovieManager.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx",
-              "RelativeDocumentMoniker": "src\\pages\\admin\\MovieManager.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\admin\\MovieManager.jsx",
-              "RelativeToolTip": "src\\pages\\admin\\MovieManager.jsx",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwLEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T11:22:38.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "movies.js",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\movies.js",
-              "RelativeDocumentMoniker": "src\\api\\movies.js",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\movies.js",
-              "RelativeToolTip": "src\\api\\movies.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T11:20:46.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Home.jsx",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx",
-              "RelativeDocumentMoniker": "src\\pages\\Home.jsx",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\pages\\Home.jsx",
-              "RelativeToolTip": "src\\pages\\Home.jsx",
-              "ViewState": "AgIAACgAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T10:01:55.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "actors.js",
-              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\actors.js",
-              "RelativeDocumentMoniker": "src\\api\\actors.js",
-              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\actors.js",
-              "RelativeToolTip": "src\\api\\actors.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T11:21:37.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 7,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -309,23 +251,127 @@
               "RelativeToolTip": "src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T07:58:30.401Z"
+              "WhenOpened": "2025-07-15T07:58:30.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeatMapDialog.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\SeatMapDialog.jsx",
+              "RelativeDocumentMoniker": "src\\components\\admin\\SeatMapDialog.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\SeatMapDialog.jsx",
+              "RelativeToolTip": "src\\components\\admin\\SeatMapDialog.jsx",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAiwJ0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-21T01:36:14.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomForm.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\admin\\RoomForm.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomForm.jsx",
+              "RelativeToolTip": "src\\components\\admin\\RoomForm.jsx",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwHoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-16T08:55:46.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomCard.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomCard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\admin\\RoomCard.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\RoomCard.jsx",
+              "RelativeToolTip": "src\\components\\admin\\RoomCard.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-16T08:54:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "rooms.js",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\rooms.js",
+              "RelativeDocumentMoniker": "src\\api\\rooms.js",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\rooms.js",
+              "RelativeToolTip": "src\\api\\rooms.js",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-16T08:41:27.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "AuthDialog.jsx",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\AuthDialog.jsx",
+              "RelativeDocumentMoniker": "src\\components\\AuthDialog.jsx",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\AuthDialog.jsx",
+              "RelativeToolTip": "src\\components\\AuthDialog.jsx",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-15T10:01:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\auth.js",
+              "RelativeDocumentMoniker": "src\\api\\auth.js",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\auth.js",
+              "RelativeToolTip": "src\\api\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-15T09:02:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "movies.js",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\movies.js",
+              "RelativeDocumentMoniker": "src\\api\\movies.js",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\movies.js",
+              "RelativeToolTip": "src\\api\\movies.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-15T11:20:46.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "actors.js",
+              "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\actors.js",
+              "RelativeDocumentMoniker": "src\\api\\actors.js",
+              "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\actors.js",
+              "RelativeToolTip": "src\\api\\actors.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-15T11:21:37.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "roomApi.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\roomApi.js",
               "RelativeDocumentMoniker": "src\\api\\roomApi.js",
               "ToolTip": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\roomApi.js",
               "RelativeToolTip": "src\\api\\roomApi.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-07-16T07:57:04.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "directors.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\directors.js",
               "RelativeDocumentMoniker": "src\\api\\directors.js",
@@ -333,11 +379,12 @@
               "RelativeToolTip": "src\\api\\directors.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T11:21:49.81Z"
+              "WhenOpened": "2025-07-15T11:21:49.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MovieCard.jsx",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\MovieCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\admin\\MovieCard.jsx",
@@ -345,11 +392,12 @@
               "RelativeToolTip": "src\\components\\admin\\MovieCard.jsx",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T11:25:21.792Z"
+              "WhenOpened": "2025-07-15T11:25:21.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "MovieForm.jsx",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\components\\admin\\MovieForm.jsx",
               "RelativeDocumentMoniker": "src\\components\\admin\\MovieForm.jsx",
@@ -357,11 +405,12 @@
               "RelativeToolTip": "src\\components\\admin\\MovieForm.jsx",
               "ViewState": "AgIAAN8AAAAAAAAAAAAwwPEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-15T11:24:05.938Z"
+              "WhenOpened": "2025-07-15T11:24:05.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "genres.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\src\\api\\genres.js",
               "RelativeDocumentMoniker": "src\\api\\genres.js",
@@ -369,11 +418,12 @@
               "RelativeToolTip": "src\\api\\genres.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T11:22:18.763Z"
+              "WhenOpened": "2025-07-15T11:22:18.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": ".env",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -381,11 +431,12 @@
               "RelativeToolTip": ".env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-15T09:00:41.552Z"
+              "WhenOpened": "2025-07-15T09:00:41.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "vite.config.js",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\vite.config.js",
               "RelativeDocumentMoniker": "vite.config.js",
@@ -393,11 +444,12 @@
               "RelativeToolTip": "vite.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-15T08:58:35.684Z"
+              "WhenOpened": "2025-07-15T08:58:35.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "index.html",
               "DocumentMoniker": "C:\\ProjectAPI\\RapPhim1\\rapphim1-reactclient\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -405,7 +457,8 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-15T07:58:18.119Z"
+              "WhenOpened": "2025-07-15T07:58:18.119Z",
+              "EditorCaption": ""
             }
           ]
         }
